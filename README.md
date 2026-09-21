@@ -1,2 +1,2 @@
 # just-demo
-/n Author-Koushik pradhan
+/nAuthor-Koushik pradhan
