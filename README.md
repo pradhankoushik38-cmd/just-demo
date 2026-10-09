@@ -1,2 +1,2 @@
 # just-demo.</n>
-author name:-koushik Pradhan./nhello guys
+author name:-koushik Pradhan.hello guys
