@@ -1,5 +1,5 @@
 # just-demo.
 author name:-koushik Pradhan.
-<\n>
+/n
 hello guys
 
